@@ -1,0 +1,66 @@
+/*
+Author: Arnold Hecke
+Author URL: 
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
+
+/*---start-wrap-----*/
+
+.jumbotron {
+    height: 22em;
+    text-align: center;
+}
+
+.searchpanel {
+    width:19.5em;
+    margin: 0 auto;
+}
+
+.searchpanel .row {
+    margin: 0.4em;
+}
+
+.pagename {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.settings-canvas {
+    margin-top: 2em;
+}
+
+.settings-body {
+    margin-top: 0em;
+}
+
+.has-error {
+    color: #c12424;            
+}
+
+.has-error .form-control {
+    border: 1px solid rgb(193, 36, 36);            
+}
+
+.fv-form-bootstrap4 .has-success .fv-control-feedback, .fv-form-bootstrap4 .has-success label {
+    color: #5a5a5a;
+}
+
+.has-success .form-control {
+    border: 1px solid rgba(0,0,0,.15)
+}
+
+@media (min-width: 576.1px) { 
+    .col-form-label {
+        text-align: right;
+    }
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.btn-secondary-settings {
+    margin-right: 0.3em;
+}
+
