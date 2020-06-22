@@ -1,6 +1,6 @@
 # coachfinder
 
-## Code refactoring
+## Code refactoring - My ToDos:
 - /src/Template/Layout/default.ctp --> Script/CSS source should come from Content Delivery Network.
 - Layout adjustment for Mobile/Tablet
 - /src/Controller/SearchController.php --> move methods clubs() and coaches() in their respective controller (index-method) and delete SearchController
